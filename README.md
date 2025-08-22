@@ -85,11 +85,15 @@ Design and implementation of an automated cocktail dispensing system using VHDL 
 
 <div align="center">
   
-![Cocktail Machine Front View](Project/img/1706110321032.jpeg)
-*Front view of the completed cocktail dispensing machine*
+<img src="Project/img/1706110321032.jpeg" alt="Cocktail Machine Front View" width="400">
+<br>
+<em>Front view of the completed cocktail dispensing machine</em>
 
-![Cocktail Machine Side View](Project/img/1706110321291.jpeg) 
-*Side view showing the internal pump system and wiring*
+<br><br>
+
+<img src="Project/img/1706110321291.jpeg" alt="Cocktail Machine Side View" width="400">
+<br>
+<em>Side view showing the internal pump system and wiring</em>
 
 </div>
 
