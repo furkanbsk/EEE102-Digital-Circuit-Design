@@ -144,7 +144,7 @@ Design and implementation of an automated cocktail dispensing system using VHDL 
 ### Prerequisites
 1. **Xilinx Vivado Design Suite** (2018.3 or later)
 2. **BASYS3 Board Support Package**
-3. **USB Cable** (for FPGA programming)
+
 
 ### Installation Steps
 
