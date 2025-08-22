@@ -81,6 +81,18 @@
 ### Project Overview
 Design and implementation of an automated cocktail dispensing system using VHDL on BASYS3 FPGA.
 
+### 📸 Completed Project Photos
+
+<div align="center">
+  
+![Cocktail Machine Front View](Project/img/1706110321032.jpeg)
+*Front view of the completed cocktail dispensing machine*
+
+![Cocktail Machine Side View](Project/img/1706110321291.jpeg) 
+*Side view showing the internal pump system and wiring*
+
+</div>
+
 ### System Architecture
 
 ```
@@ -201,6 +213,9 @@ EEE102-Digital-Circuit-Design/
 │   ├── Main_Coctail.vhd               # Main system controller
 │   ├── Pump_Driver.vhd                # Pump control module
 │   ├── Text_Display.vhd               # Text display handler
+│   ├── img/                           # Project photos
+│   │   ├── 1706110321032.jpeg         # Front view of cocktail machine
+│   │   └── 1706110321291.jpeg         # Side view with internal components
 │   ├── EE 102 Project Proposal_Furkan Büyüksarıkulak_22002097.pdf
 │   └── EE 102 Term Project Report Furkan Büyüksarıkulak _ 22002097.pdf
 └── Vivado  Basys References-20250822.zip  # BASYS3 documentation and tutorials
