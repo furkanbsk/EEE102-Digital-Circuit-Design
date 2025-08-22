@@ -308,8 +308,7 @@ This code is provided for educational purposes. Hardware implementations should 
 
 ## 📞 Contact Information
 
-**Author**: Furkan Büyüksarıkulak  
-**Student ID**: 22002097  
+**Author**: Furkan Büyüksarıkulak    
 **Course**: EEE 102 - Introduction to Digital Circuit Design  
 
 ### Support
